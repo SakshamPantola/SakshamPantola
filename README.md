@@ -3,10 +3,6 @@
 
 Email Me 👉 ✉️ **pantolasaksham200@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<p align="right">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="400" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
-</p>
-
 - 🔭 **I’m currently working on:** Shortest Pathfinder and Anti-Proxy Attendance System.
 - 🌱 **I’m currently learning:** Full-Stack development (Python + React integration).
 - 👯 **I’m looking to collaborate on:** Backend development and open-source API design.
@@ -16,7 +12,9 @@ Email Me 👉 ✉️ **pantolasaksham200@gmail.com** For Collaboration/Project o
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I analyze cricket match strategies with the same logic I use to solve DSA problems!
 
-<br clear="right"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="600">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshampantola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantolasaksham200@gmail.com) 
