@@ -13,11 +13,11 @@ Email Me 👉 ✉️ **pantolasaksham200@gmail.com** For Collaboration/Project o
 - ⚡ **Fun fact:** I analyze cricket match strategies with the same logic I use to solve DSA problems!
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="600">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="600">
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshampantola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantolasaksham200@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshampantola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantolasaksham200@gmail.com) 
 
 ---
 
@@ -27,9 +27,9 @@ Email Me 👉 ✉️ **pantolasaksham200@gmail.com** For Collaboration/Project o
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SakshamPantola&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=1800)<br/>
-![](https://streak-stats.demolab.com/?user=SakshamPantola&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SakshamPantola&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.shion.dev/api?username=SakshamPantola&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
+![](https://streak-stats.demolab.com/?user=SakshamPantola&theme=dark&hide_border=false&count_private=true&cache_seconds=1800)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SakshamPantola&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SakshamPantola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
