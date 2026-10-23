@@ -19,10 +19,10 @@
 
 <!-- STATS CARDS -->
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=SakshamPantola&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=SakshamPantola&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&v=2" alt="streak" />
   <br/><br/>
-  <img width="49%" src="https://github-readme-stats-tau-sage-17.vercel.app/api?username=SakshamPantola&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="stats" />
-  <img width="49%" src="https://github-readme-stats-tau-sage-17.vercel.app/api/top-langs/?username=SakshamPantola&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats-tau-sage-17.vercel.app/api?username=SakshamPantola&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&v=2" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-tau-sage-17.vercel.app/api/top-langs/?username=SakshamPantola&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&v=2" alt="top langs" />
 </div>
 
 <br/><br/>
